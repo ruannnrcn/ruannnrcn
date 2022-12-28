@@ -1,6 +1,6 @@
 - 👋 Hi, Guys!! I' am Pedro Ruan.
 - 👀 I’m interested in being a good full stack developer.
-- 🌱 I’m currently learning PHP and Javascript
+- 🌱 I’m currently learning PHP, Javascript an MySQL
 
 
 
