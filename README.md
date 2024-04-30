@@ -45,8 +45,8 @@
 
 ## < 📊 GitHub Analytics > 
 
-![ruannnrcn's Stats](https://github-readme-stats.vercel.app/api?username=ruannnrcn&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![ruannnrcn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruannnrcn&theme=prussian&hide_border=true) 
+![ruannnrcn's Stats](https://github-readme-stats.vercel.app/api?username=ruannnrcn&theme=prussian&show_icons=true&hide_border=true&count_private=true) ![ruannnrcn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruannnrcn&theme=prussian&hide_border=true) 
+
 
 <br>
 
