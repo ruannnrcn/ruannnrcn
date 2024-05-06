@@ -5,7 +5,7 @@
 ## < 🧑🏽‍💻 Sobre Pedro > 
 
 <p align="left"> 
-  Meu nome é Pedro Ruan, sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Atualmente tengo 21 anos, se dejeja 
+  Meu nome é Pedro Ruan, sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e atualmente tenho 21 anos. Se desejar 
   saber mais sobre mim, pode ficar a vontade para olhar abaixo!
 </p>
 
