@@ -1,56 +1,23 @@
-<img width=100% bottom=50px src="https://github.com/ruannnrcn/ruannnrcn/assets/109441047/cec84fc6-d688-4c6e-82cf-07c321832f94"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A93D3&height=120&section=header"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A93D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Ruan;I'm+22+years+old;I+am+from+Natal,+RN;I+trained+IT+technician+at+IFRN;)](https://git.io/typing-svg)
 
-## < 🧑🏽‍💻 Sobre Pedro > 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ruannnrcn&show_icons=true&count_private=true&hide_border=true&title_color=8A93D3&icon_color=8A93D3&text_color=8A93D3&bg_color=0d1117" alt="Ruan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruannnrcn&layout=compact&hide_border=true&title_color=8A93D3&text_color=8A93D3&bg_color=0d1117" />
+</div>
 
-<p align="left"> 
-  Meu nome é Pedro Ruan, sou formado em Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e atualmente tenho 22 anos. Se desejar 
-  saber mais sobre mim, pode ficar a vontade para olhar abaixo!
+[![ruannnrcn github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruannnrcn&bg_color=1a1b27&color=8A93D3&line=8A93D3&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruannnrcn&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<br>
 
 
-## < Minhas Proeficiências 🌟 >
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ruannnrcn}/count.svg" /></p> 
+<br></div>
 
-### 💻 Desenvolvimento 
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-
-### 🏗️ Frameworks
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=laravel&logoColor=FF2D20)
-
-### 🛢️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-### ⚙️ DevOps 
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-### 🛠️ Ferramentas de Desenvolvimento 
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br>
-
-## < 📊 GitHub Analytics > 
-
-![ruannnrcn's Stats](https://github-readme-stats.vercel.app/api?username=ruannnrcn&theme=prussian&show_icons=true&hide_border=true&count_private=true) ![ruannnrcn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruannnrcn&theme=prussian&hide_border=true) 
-
-
-<br>
-
-<img width=100% bottom=50px src="https://github.com/ruannnrcn/ruannnrcn/assets/109441047/cec84fc6-d688-4c6e-82cf-07c321832f94"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A93D3&height=120&section=footer"/>
